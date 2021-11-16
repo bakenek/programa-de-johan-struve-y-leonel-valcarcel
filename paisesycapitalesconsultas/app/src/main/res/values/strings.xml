@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paises y capitales consultas</string>
+    <string name="hint_pais">Pais:</string>
+    <string name="hint_capital">Capital:</string>
+    <string name="btn_guardar">Guardar:</string>
+    <string name="menu_nuevo">registrar pais</string>
+</resources>
